@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+primaryColor = "#FFD700"  # Gold
+backgroundColor = "#000000"  # Black
+secondaryBackgroundColor = "#333333"  # Dark Gray
+textColor = "#FFFFFF"  # White
+font = "sans-serif"
+titleColor = "#FFD700"  # Gold
+
+[theme.button]
+backgroundColor = "#FFD700"  # Gold
+hoverBackgroundColor = "#DAA520"  # Goldenrod on Hover
+textColor = "#333333"  # Dark Gray
+borderColor = "#FFD700"  # Gold
+hoverBorderColor = "#DAA520"  # Goldenrod on Hover
